@@ -1,3 +1,6 @@
+
+#利用CoreAnimation实现的下拉刷新
+
 blogpost-codesample-PullToRefresh
 =================================
 
